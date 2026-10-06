@@ -3,7 +3,7 @@
 > **ES:** Estudio empírico con 184 estudiantes sobre conectividad doméstica y hábitos digitales.
 > **EN:** An empirical study with 184 students on home connectivity and digital habits.
 
-![Resultados](images/img-01.png)
+![Resultados](images/img-05.png)
 
 ---
 
@@ -74,3 +74,27 @@ regression models were applied.
 - `images/` — charts and analysis results.
 - `docs/Trabajo-Extenso-Analisis-Datos-I.pdf` — extended report.
 - `docs/Resumen-Ejecutivo-Analisis-Datos-I.pdf` — executive summary.
+
+---
+
+## Galería / Gallery
+
+![analisis-conectividad 1](images/img-01.png)
+
+![analisis-conectividad 2](images/img-02.png)
+
+![analisis-conectividad 3](images/img-03.png)
+
+![analisis-conectividad 4](images/img-04.jpeg)
+
+![analisis-conectividad 5](images/img-05.png)
+
+![analisis-conectividad 6](images/img-06.png)
+
+![analisis-conectividad 7](images/img-07.png)
+
+![analisis-conectividad 8](images/img-08.png)
+
+![analisis-conectividad 9](images/img-09.jpeg)
+
+![analisis-conectividad 10](images/img-10.png)
